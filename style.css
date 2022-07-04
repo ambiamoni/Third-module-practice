@@ -52,7 +52,8 @@ h2{
     padding-left: 7%;
 }
 .experience-item{
-    width:40%;
+    width:40%; 
+ 
     border-radius: 10px;
     padding-left: 20px;
     box-shadow: 10px 10px 40px grey;
@@ -64,4 +65,13 @@ h2{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+.bdrLeft{
+    border-left:7px solid tomato;
+}
+.bdrRight{
+    border-left:7px solid blue;
+}
+footer{
+    text-align:center;
 }
